@@ -17,7 +17,8 @@ class Element(Enum):
     GEO = "Geo"
     CRYO = "Cryo"
     DENDRO = "Dendro"
-    ALL = "All"
+    OMNI = "Omni"
+    BLACK = "Black"
     NONE = "None"
 
 class Faction(Enum):
